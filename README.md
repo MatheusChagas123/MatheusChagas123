@@ -2,6 +2,10 @@
 - 📅 Atualmente estudando Estudando TypeScript.
 - 📚 Estudante de Sistema de Informações.
 - 👨‍🎓 Formado em Administração de Empresas.
+- Contatos:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]https://www.linkedin.com/in/matheus-chagas-a58201216/
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusChagas123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
   <a href="https://github.com/MatheusChagas123">
