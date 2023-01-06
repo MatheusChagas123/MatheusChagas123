@@ -1,6 +1,6 @@
 
 <p> Olá, Matheus Chagas, prazer em conhecer!🤝</p>
-<p>- 📅 Atualmente estudando Estudando TypeScript.</p>
+<p>- 📅 Atualmente estudando Estudando JavaScript.</p>
 <p>- 📚 Estudante de Sistema de Informações.</p>
 <p>- 👨‍🎓 Formado em Administração de Empresas.</p>
 <p>- Contatos:</p>
